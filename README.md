@@ -6,6 +6,10 @@ The goal of the project was to implement a PostgreSQL database for a fictional c
 
 ![Alt Text](database_model.png)
 
+The next figure depicts the city's stops network.
+
+![Alt Text](stops_network.png)
+
 ## Additional implementations
 
 The data structures have been properly designed and created using constraints like keys, checks and defaults.
@@ -31,3 +35,5 @@ Moreover, the database has been expanded to include:
     The script with the database's implementation
   - ### database_model.png
     The image of the database's model
+  - ### stops_network.png
+    The visualization of the city's stops network
